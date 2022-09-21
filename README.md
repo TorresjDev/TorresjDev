@@ -95,6 +95,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JxTorres003&show_icons=true&count_private=true&hide_border=true" align="center" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&compact=True"/>
+  https://wakatime.com/badge/user/aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4.svg
 </div>  
 
 <br/>  
