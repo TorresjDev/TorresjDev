@@ -93,6 +93,10 @@
 
 ## Github && WakaTime Stats  
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JxTorres003&&style=flat-square" />
+  <a href="https://wakatime.com/@aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4">
+    <img src="https://wakatime.com/badge/user/aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4.svg" alt="Total time coded since Jul 1 2020" />
+  </a>
   <img src="https://github-readme-stats.vercel.app/api?username=JxTorres003&show_icons=true&count_private=true&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&compact=True"/>
 
@@ -110,12 +114,7 @@
 
 <br/>  
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JxTorres003&&style=flat-square" />
-  <a href="https://wakatime.com/@aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4">
-    <img src="https://wakatime.com/badge/user/aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4.svg" alt="Total time coded since Jul 1 2020" />
-  </a>
-</div>  
+
   
 
 <br/>  
