@@ -99,6 +99,7 @@
   </a>
   <br/>  
   <img src="https://github-readme-stats.vercel.app/api?username=JxTorres003&show_icons=true&count_private=true&hide_border=true"/>
+  <br/>  
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&compact=True"/>
 
 </div>  
