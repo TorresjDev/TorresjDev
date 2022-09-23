@@ -5,7 +5,13 @@
 
 ### <div align="center">I'm Jesus, a full-stack Software Engineer 👨‍💻 🚀</div>  
  
-- ⚡ Fun fact: I use tabs over spaces    
+- 🧰 I’m currently working on **projects building web applications and features 💫**
+- 🌱 Always learning to **strengthen my current skills 💾, & develop new skills 📚**
+- 🤝 Open to meeting others **that can help me grow or to collaborate ideas and projects 🎖️**
+- 👨‍💻 All of my projects are available here on my Repositories tab & Projects tab.
+- ⚡ A thing about me I enjoy home-made dinners, hiking outdoors for the best sunset 🌄 view, lofi music and campfires 🏕️
+
+
 
 <br/>  
 
