@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Jesus, a full-stack Software Engineer 👨‍💻 🚀</div>  
  
-- 🧰 I’m currently working on projects building web applications and features 💫
+ # - 🧰 I’m currently working on projects building web applications and features 💫
 - 🌱 Always learning to strengthen my current skills 💾, & develop new skills 📚
 - 🤝 Open to meeting others that can help me grow or to collaborate ideas and projects 🎖️
 - 👨‍💻 All of my projects are available here on my Repositories tab & Projects tab.
