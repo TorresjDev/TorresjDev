@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">I'm Jesus, a full-stack Software Engineer 👨‍💻 🚀</div>  
+# <div align="center">I'm a full-stack Software Engineer 👨‍💻 🚀</div>  
  
 #### 🧰 Currently working on projects building web applications and features 💫
 #### 🌱 Always learning to strengthen my current skills 💾, & develop new skills 📚
