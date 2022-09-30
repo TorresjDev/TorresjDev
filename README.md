@@ -79,12 +79,9 @@
     <img src="https://wakatime.com/badge/user/aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4.svg" alt="Total time coded since Jul 1 2020" />
   </a>
    <br/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JxTorres003"/>
    <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JxTorres003" alt="All languages coding in" />
   </a>
-   [![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
-
       <br/> 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&compact=True"/>
   <br/>  
