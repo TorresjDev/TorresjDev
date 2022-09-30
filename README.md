@@ -81,7 +81,6 @@
    <br/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JxTorres003"/>
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JxTorres003)](https://github.com/anuraghazra/github-readme-stats)
       <br/> 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&compact=True"/>
   <br/>  
