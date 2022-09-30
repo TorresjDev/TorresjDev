@@ -80,8 +80,8 @@
   </a>
    <br/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JxTorres003"/>
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JxTorres003">
-    <img src="https://github.com/anuraghazra/github-readme-stats" alt="Total time coded since Jul 1 2020" />
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JxTorres003" alt="All languages coding in" />
   </a>
    [![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
 
