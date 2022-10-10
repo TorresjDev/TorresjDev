@@ -60,7 +60,7 @@
    ### Tools:  
    <div align="center">  
      <a href="https://github.com/" target="_blank">
-        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
+        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" />
      </a>
      <a href="https://www.gnu.org/software/bash/" target="_blank">
         <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" /> 
@@ -69,7 +69,7 @@
        <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="40" />
      </a>
      <a href="https://postman.com" target="_blank" rel="noreferrer">
-       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40"/>
+       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="35"/>
      </a>
    </div>
   </td>
