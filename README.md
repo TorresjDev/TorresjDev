@@ -37,8 +37,7 @@
      <a href="https://reactjs.org/" target="_blank">
        <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /> 
      </a>  
-   </div>
-  </td>
+   </div></td>
    
   <td valign="top" width="33%">  
     
@@ -56,8 +55,7 @@
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="40"/>  
       </a>  
-   </div>
-  </td>
+   </div></td>
    
   <td valign="top" width="33%">
     
