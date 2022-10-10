@@ -39,7 +39,7 @@
 </td><td valign="top" width="33%">
  
 ### Backend:
-<div align="center">  
+<div align="center" style="margin-bottom: 0px">  
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img style="margin: 9px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" />
   </a>  
