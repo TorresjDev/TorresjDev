@@ -37,12 +37,10 @@
      <a href="https://reactjs.org/" target="_blank">
        <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /> 
      </a>  
-   </div></td>
-   
-  <td valign="top" width="33%">  
+   </div>
+  </td><td valign="top" width="33%">  
     
-    ### Backend:
-    
+    ### Backend:    
     <div align="center">
       <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
         <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" />
@@ -54,11 +52,10 @@
         <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="40" />
       </a>  
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="40"/>  
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="40" />  
       </a>  
-   </div></td>
-   
-  <td valign="top" width="33%">
+   </div>
+  </td><td valign="top" width="33%">
     
    ### Tools:  
    <div align="center">  
