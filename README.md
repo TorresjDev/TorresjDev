@@ -41,6 +41,7 @@
   </td>
    
   <td valign="top" width="33%">  
+    
     ### Backend:
     <div align="center">
       <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
@@ -59,6 +60,7 @@
   </td>
    
   <td valign="top" width="33%">
+    
    ### Tools:  
    <div align="center">  
      <a href="https://github.com/" target="_blank">
