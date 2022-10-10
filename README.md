@@ -17,7 +17,7 @@
  
 ### Frontend: 
 <div align="center"> 
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="blank">
     <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
   </a>  
   <a href="https://www.w3schools.com/css/" target="_blank">
