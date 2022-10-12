@@ -2,14 +2,12 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>    
 
-# <div align="center">I'm a full-stack Software Engineer 👨‍💻 🚀</div>  
- 
+# <div align="center">I'm a full-stack Software Engineer 👨‍💻 🚀</div>   
 #### 🧰 Currently working on projects building web applications & features 💫
 #### 🌱 Always learning to strengthen my current skills 💾, & develop new skills 📚
 #### 🤝 Open to meeting others that can help me grow or to collaborate ideas & projects 🎖️
 #### 👨‍💻 All of my projects will be available here on my Repositories tab & Projects tab on Github.
 #### ⚡ A thing about me I enjoy home-made dinners, hiking outdoors for the best sunset 🌄 view, lofi music & campfires 🏕️
-
 <br/>  
 
 ## My Skill Set  
