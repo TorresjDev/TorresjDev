@@ -10,7 +10,7 @@
 #### ⚡ A thing about me I enjoy home-made dinners, hiking outdoors for the best sunset 🌄 view, lofi music & campfires 🏕️
 <br/>  
 
-## My Skill Set  
+## <div align="center">My Skill Set</div>   
 <table>
  <tr>
   <td valign="top" width="33%">
@@ -75,7 +75,7 @@
 </table>  
 <br/>  
 
-## Github && WakaTime Stats  
+## <div align="center">Github && WakaTime Stats</div>   
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TorresjDev&&style=flat-square" />
   <a href="https://wakatime.com/@aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4">
@@ -91,7 +91,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=TorresjDev&show_icons=true&count_private=true&hide_border=true"/> 
 </div>  
 
-## Connect with me  
+## <div align="center">Connect with me</div>   
 <div align="center">
   <a href="https://github.com/JxTorres003" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
