@@ -10,7 +10,7 @@
 #### ⚡ A thing about me I enjoy home-made dinners, hiking outdoors for the best sunset 🌄 view, lofi music & campfires 🏕️
 <br/>  
 
-## <div align="center">My Skill Set</div>   
+## My Skill Set 
 <table>
  <tr>
   <td valign="top" width="33%">
