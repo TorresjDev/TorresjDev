@@ -26,8 +26,8 @@
      <a href="https://www.typescriptlang.org/" target="_blank">
        <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="35" />
      </a>  
-     <a href="https://angular.io/" target="_blank"><
-       img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="35" />
+     <a href="https://angular.io/" target="_blank">
+       <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="35" />
      </a>  
      <a href="https://reactjs.org/" target="_blank">
        <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" /> 
