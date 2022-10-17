@@ -32,18 +32,18 @@
      <a href="https://reactjs.org/" target="_blank">
        <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" /> 
      </a> 
-     <a href="https://jquery.com/" target="_blank">
+<!--      <a href="https://jquery.com/" target="_blank">
        <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="35" />
-     </a>  
+     </a>   -->
       <a href="https://www.w3schools.com/css/" target="_blank">
        <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="42" />
      </a> 
      <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
        <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="35" />
      </a>  
-     <a href="https://sass-lang.com/" target="_blank">
+<!--      <a href="https://sass-lang.com/" target="_blank">
        <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="33" />
-     </a> 
+     </a>  -->
      <a href="https://www.tailwindcss.com/" target="_blank">
        <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="35" />
      </a>  
