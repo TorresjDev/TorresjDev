@@ -53,10 +53,10 @@
   ### Backend:    
   <div align="center">
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-      <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" />
+      <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="35" />
     </a>  
     <a href="https://dotnet.microsoft.com/download" target="_blank">
-      <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="40" />
+      <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="35" />
     </a>  
     <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank">
       <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="40" />
