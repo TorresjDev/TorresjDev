@@ -69,6 +69,12 @@
     
    ### Tools:  
    <div align="center">  
+     <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height="40" />
+     </a>
+     <a href="https://visualstudio.microsoft.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" height="40" />
+     </a>  
      <a href="https://github.com/" target="_blank">
         <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" />
      </a>
