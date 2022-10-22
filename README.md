@@ -3,11 +3,11 @@
 </div>    
 
 # <div align="center">I'm a full-stack Software Engineer 👨‍💻 🚀</div>   
-#### 🧰 Currently working on projects building web applications & features 💫
-#### 🌱 Always learning to strengthen my current skills 💾, & develop new skills 📚
-#### 🤝 Open to meeting others that can help me grow or to collaborate ideas & projects 🎖️
-#### 👨‍💻 All of my projects will be available here on my Repositories tab & Projects tab on Github.
-#### ⚡ A thing about me I enjoy home-made dinners, hiking outdoors for the best sunset 🌄 view, lofi music & campfires 🏕️
+##### 🧰 Currently working on projects building web applications & features 💫
+##### 🌱 Always learning to strengthen my current skills 💾, & develop new skills 📚
+##### 🤝 Open to meeting others that can help me grow or to collaborate ideas & projects 🎖️
+##### 👨‍💻 All of my projects will be available here on my Repositories tab & Projects tab on Github.
+##### ⚡ A thing about me I enjoy home-made dinners, hiking outdoors for the best sunset 🌄 view, lofi music & campfires 🏕️
 <br/>  
 
 ## My Skill Set 
@@ -98,11 +98,11 @@
 
  ![](https://komarev.com/ghpvc/?username=TorresjDev&style=plastic&color=blueviolet)
  [![wakatime](https://wakatime.com/badge/user/aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4.svg?style=plastic&color=blueviolet)](https://wakatime.com/@aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4)
-  <br/>   
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
-  <br/>  
+  <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TorresjDev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=contribs"/> 
   <br/> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&compact=True&theme=tokyonight&hide_border=true"/>
