@@ -102,11 +102,11 @@
   <br/> 
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&layout=compact&theme=tokyonight" alt="All languages coding in" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&layout=compact&theme=tokyonight&hide_border=true" alt="All languages coding in" />
   </a>
   
   <br/> 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&compact=True&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&compact=True&theme=tokyonight&hide_border=true"/>
   <br/>  
   <img src="https://github-readme-stats.vercel.app/api?username=TorresjDev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=contribs"/> 
   
