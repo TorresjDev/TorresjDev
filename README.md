@@ -101,19 +101,16 @@
   </a>
   <br/> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&layout=compact&theme=tokyonight&hide_border=true" alt="All languages coding in" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&layout=compact&theme=tokyonight" alt="All languages coding in" />
   </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <imgsrc="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" />
+    <imgsrc="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&layout=compact&theme=tokyonight" />
   </a>
   <br/> 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&compact=True&theme=tokyonight"/>
   <br/>  
   <img src="https://github-readme-stats.vercel.app/api?username=TorresjDev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/> 
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
-  </a>
 
 </div>  
 
