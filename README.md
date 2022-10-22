@@ -95,7 +95,7 @@
 
 ## <div align="center">Github && WakaTime Stats</div>   
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TorresjDev&&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=TorresjDev&&style=flat-round" />
   <a href="https://wakatime.com/@aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4">
     <img src="https://wakatime.com/badge/user/aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4.svg" alt="Total time coded since Jul 1 2020" />
   </a>
@@ -103,8 +103,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&layout=compact&theme=tokyonight" alt="All languages coding in" />
   </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <imgsrc="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&layout=compact&theme=tokyonight" />
+  
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&layout=compact&theme=tokyonight" />
   </a>
   <br/> 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&compact=True&theme=tokyonight"/>
