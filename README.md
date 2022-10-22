@@ -95,10 +95,9 @@
 
 ## <div align="center">Github && WakaTime Stats</div>   
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TorresjDev&&style=flat-round" />
-  <a href="https://wakatime.com/@aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4">
-    <img src="https://wakatime.com/badge/user/aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4.svg" alt="Total time coded since Jul 1 2020" />
-  </a>
+
+ ![](https://komarev.com/ghpvc/?username=TorresjDev&style=plastic&color=blueviolet)
+ [![wakatime](https://wakatime.com/badge/user/aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4.svg?style=plastic&color=blueviolet)](https://wakatime.com/@aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4)
   <br/>   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&layout=compact&theme=tokyonight&hide_border=true" />
@@ -112,17 +111,12 @@
 
 </div>  
 
-## <div align="center">Connect with me</div>   
+## <div align="center"> Connect with me</div>   
 <div align="center">
-<!--   [![Linkedin Badge](https://img.shields.io/badge/-@torresdev-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torresdev/) -->
-  [![GitHub Badge](https://img.shields.io/badge/@TorresjDev-e84393?style=flat&labelColor=e84393&logo=github&logoColor=black)](https://github.com/TorresjDev)
 
-<!--   <a href="https://github.com/JxTorres003" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/jt036" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>   -->
+  [![Linkedin Badge](https://img.shields.io/badge/-@torresdev-0e76a8?style=social&logoColor=9cf&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torresdev/)
+  [![GitHub Badge](https://img.shields.io/badge/-@TorresjDev-0e76a8?style=social&logoColor=black&logo=github)](https://www.github.com/TorresjDev)
+
+  [![Gmail Badge](https://img.shields.io/badge/-j.torres3.dev@gmail.com-c0392b?style=social&logoColor=c0392b&logo=gmail)](mailto:j.torres3.dev@gmail.com)
+
 </div>  
-<!-- [![Gmail Badge](https://img.shields.io/badge/-j.torres3.dev@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:j.torres3.dev@gmail.com) -->
-<br/>  
