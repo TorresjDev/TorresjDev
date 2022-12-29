@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 33%" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width: 28%" />
 </div>    
 
 # <div align="center">I'm a full-stack Software Engineer 👨‍💻 🚀</div>   
-##### 🧰 Currently working on projects building web applications & features 💫
-##### 🌱 Always learning to strengthen my current skills 💾, & develop new skills 📚
-##### 🤝 Open to meeting others that can help me grow or to collaborate ideas & projects 🎖️
-##### 👨‍💻 All of my projects will be available here on my Repositories tab & Projects tab on Github.
-##### ⚡ A thing about me I enjoy home-made dinners, hiking outdoors for the best sunset 🌄 view, lofi music & campfires 🏕️
+##### 🧰 Currently building web applications & features 💫 Since: 2020
+##### 🌱 Learning new concepts 💾, & developing my skills 📚
+##### 🤝 Always Open to collaborate ideas & projects 🎖️
+##### 👨‍💻 Projects will be available & open sourced here on projects tab in Github.
+##### ⚡ A thing about me I enjoy home-made dinners, hiking outdoors for the best sunset 🌄 view, lofi music & campfires 🏕️ & I love to code ❤️
 <br/>  
 
 ## My Skill Set 
