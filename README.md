@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width:28%" />
 </div>    
-
 # <div align="center">I'm a full-stack Software Engineer 👨‍💻 🚀</div>   
 ##### 🧰 Currently building web applications & features 💫 Since: 2020
 ##### 🌱 Learning new concepts 💾, & developing my skills 📚
@@ -95,7 +94,7 @@
 
 ## <div align="center">Github && WakaTime Stats</div>   
 <div align="center">
-
+  
  ![](https://komarev.com/ghpvc/?username=TorresjDev&style=plastic&color=blueviolet)
  [![wakatime](https://wakatime.com/badge/user/aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4.svg?style=plastic&color=blueviolet)](https://wakatime.com/@aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4)
 
@@ -106,9 +105,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TorresjDev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=contribs"/> 
   <br/> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&compact=True&theme=tokyonight&hide_border=true"/>
-
+  
 </div>  
-
 ## <div align="center"> Connect with me</div>   
 <div align="center">
 
