@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width: 28%" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width:28%" />
 </div>    
 
 # <div align="center">I'm a full-stack Software Engineer 👨‍💻 🚀</div>   
@@ -106,8 +106,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TorresjDev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=contribs"/> 
   <br/> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&compact=True&theme=tokyonight&hide_border=true"/>
-  
-  
 
 </div>  
 
