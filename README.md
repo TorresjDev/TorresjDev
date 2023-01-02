@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width:28%" />
-</div>    
+</div>  
+
 # <div align="center">I'm a full-stack Software Engineer 👨‍💻 🚀</div>   
 ##### 🧰 Currently building web applications & features 💫 Since: 2020
 ##### 🌱 Learning new concepts 💾, & developing my skills 📚
@@ -107,6 +108,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&compact=True&theme=tokyonight&hide_border=true"/>
   
 </div>  
+
 ## <div align="center"> Connect with me</div>   
 <div align="center">
 
