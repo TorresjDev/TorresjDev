@@ -3,11 +3,11 @@
 </div>  
 
 # <div align="center">I'm a full-stack Software Engineer 👨‍💻 🚀</div>   
-##### 🧰 Currently building web applications & features 💫 Since: 2020
-##### 🌱 Learning new concepts 💾, & developing my skills 📚
+##### 🧰 Currently building innovative and functional applications 💫 Since: 2020
+##### 🌱 Constantly learning new concepts 💾, & developing my skills 📚
 ##### 🤝 Always Open to collaborate ideas & projects 🎖️
-##### 👨‍💻 Projects will be available & open sourced here on projects tab in Github.
-##### ⚡ A thing about me I enjoy home-made dinners, hiking outdoors for the best sunset 🌄 view, lofi music & campfires 🏕️ & I love to code ❤️
+##### 👨‍💻 Projects available & open sourced on my projects tab in Github 🖥️
+##### ⚡ A fun fact about me: I enjoy home-made dinners 🍴, hiking outdoors for the best sunset 🌄 view, lofi music 🎧 & campfires 🏕️ & I love to code ❤️
 <br/>  
 
 ### CURRENT SKILL SET              (CTRL/CMD + CLICK on icon to open in new tab)
