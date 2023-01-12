@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width:28%" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width:28%" />
 </div>  
 
 # <div align="center">I'm a full-stack Software Engineer 👨‍💻 🚀</div>   
