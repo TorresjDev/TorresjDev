@@ -90,6 +90,9 @@
      <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
        <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="40" />
      </a>
+      <a href="https://yarnpkg.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="Yarn" height="40" />
+  </a> 
      <a href="https://postman.com" target="_blank" rel="noreferrer">
        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="35"/>
      </a>
