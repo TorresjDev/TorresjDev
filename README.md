@@ -91,10 +91,10 @@
        <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="40" />
      </a>
       <a href="https://yarnpkg.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="Yarn" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="Yarn" height="35" />
   </a> 
       <a href="https://www.npmjs.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" height="35" />
   </a> 
      <a href="https://postman.com" target="_blank" rel="noreferrer">
        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="35"/>
