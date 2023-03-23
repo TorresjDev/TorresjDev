@@ -2,7 +2,7 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width:28%" />
 </div>  
 
-# <div align="center">I'm a Software Engineer 👨‍💻 🚀</div>   
+# <div align="center">Software Engineer 👨‍💻 🚀</div>   
 ##### 🧰 Currently building innovative and functional applications 💫 Since: 2020
 ##### 🌱 Constantly learning new concepts 💾, & developing my skills 📚
 ##### 🤝 Always Open to collaborate ideas & projects 🎖️
