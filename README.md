@@ -108,7 +108,7 @@
 ## <div align="center">Github && WakaTime Stats</div>   
 <div align="center">
   
- ![](https://komarev.com/ghpvc/?username=TorresjDev&style=plastic&color=blueviolet)
+<!--  ![](https://komarev.com/ghpvc/?username=TorresjDev&style=plastic&color=blueviolet) -->
  [![wakatime](https://wakatime.com/badge/user/aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4.svg?style=plastic&color=blueviolet)](https://wakatime.com/@aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4)
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
