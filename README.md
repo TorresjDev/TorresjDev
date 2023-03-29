@@ -7,7 +7,7 @@
 ##### 🌱 Constantly learning new concepts 💾, & developing my skills 📚
 ##### 🤝 Always Open to collaborate ideas & projects 🎖️
 ##### 👨‍💻 Projects available & open sourced on my projects tab in repository 🖥️
-##### ⚡ A fun fact about me: I enjoy home-made dinners 🍴, hiking outdoors for the best sunset 🌄 view, lofi music 🎧 & campfires 🏕️ & I love to code ❤️
+##### ⚡ A fun fact about me, I enjoy home-made dinners 🍴, hiking outdoors for a nice sunset 🌄, lofi music 🎧, campfires 🏕️ & I love to code!❤️
 <br/>  
 
 ### CURRENT SKILL SET              (CTRL || CMD + CLICK on icon to open in new tab)
