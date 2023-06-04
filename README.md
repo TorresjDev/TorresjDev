@@ -10,7 +10,7 @@
 ##### ⚡ A fun fact about me, I enjoy home-made dinners 🍴, hiking outdoors for a nice sunset 🌄, lofi music 🎧, campfires 🏕️ & I love to code!❤️
 <br/>  
 
-### CURRENT SKILL SET              (CTRL || CMD + CLICK on icon to open in new tab)
+### CURRENT SKILL SET            
 <table>
  <tr>
   <td valign="top" width="33%">
