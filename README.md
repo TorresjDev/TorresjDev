@@ -3,11 +3,6 @@
 </div>  
 
 # <div align="center">Software Engineer 👨‍💻 🚀</div>   
-##### 🧰 Currently building innovative and functional applications 💫 Since: 2020
-##### 🌱 Constantly learning new concepts 💾, & developing my skills 📚
-##### 🤝 Always Open to collaborate ideas & projects 🎖️
-##### 👨‍💻 Projects available & open sourced on my projects tab in repository 🖥️
-##### ⚡ A fun fact about me, I enjoy home-made dinners 🍴, hiking outdoors for a nice sunset 🌄, lofi music 🎧, campfires 🏕️ & I love to code!❤️
 <br/>  
 
 ### CURRENT SKILL SET            
@@ -130,3 +125,11 @@
   [![Gmail Badge](https://img.shields.io/badge/-j.torres3.dev@gmail.com-c0392b?style=social&logoColor=c0392b&logo=gmail)](mailto:j.torres3.dev@gmail.com)
 
 </div>  
+
+<br/>
+
+##### 🧰 Currently building innovative and functional applications 💫 Since: 2020
+##### 🌱 Constantly learning new concepts 💾, & developing my skills 📚
+##### 🤝 Always Open to collaborate ideas & projects 🎖️
+##### 👨‍💻 Projects available & open sourced on my projects tab in repository 🖥️
+##### ⚡ A fun fact about me, I enjoy home-made dinners 🍴, hiking outdoors for a nice sunset 🌄, lofi music 🎧, campfires 🏕️ & I love to code!❤️
