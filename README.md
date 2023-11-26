@@ -128,6 +128,8 @@
 
 <br/>
 
+## <div align="center"> About me</div>   
+
 ##### 🧰 Currently building innovative and functional applications 💫 Since: 2020
 ##### 🌱 Constantly learning new concepts 💾, & developing my skills 📚
 ##### 🤝 Always Open to collaborate ideas & projects 🎖️
