@@ -5,7 +5,7 @@
 # <div align="center">Software Engineer 👨‍💻 🚀</div>   
 <br/>
 
-## <div align="center">Github & WakaTime Stats 📊</div>   
+## <div align="center">Tech & Coding Stats 📊</div>   
 <div align="center">
   
 <!--  ![](https://komarev.com/ghpvc/?username=TorresjDev&style=plastic&color=blueviolet) -->
