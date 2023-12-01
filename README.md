@@ -3,6 +3,37 @@
 </div>  
 
 # <div align="center">Software Engineer 👨‍💻 🚀</div>   
+<br/>
+
+## <div align="center"> About me 📝</div>   
+
+##### 🧰 Crafting innovative and scalable solutions with a focus on efficiency and robustness 💫 Since: 2020
+##### 🌱 Embracing continuous learning to master emerging technologies 💾, & refining my craft 📚
+##### 🤝 Open for collaboration on groundbreaking projects & ideas 🎖️
+##### 👨‍💻 Explore my open-source contributions and projects in my repository 🖥️
+##### ⚡ Fun fact: I relish home-cooked meals 🍴, enjoy hiking for breathtaking sunsets 🌄, love lofi beats 🎧, and am passionate about coding! ❤️
+<br/>
+
+## <div align="center">Github & WakaTime Stats 📊</div>   
+<div align="center">
+  
+<!--  ![](https://komarev.com/ghpvc/?username=TorresjDev&style=plastic&color=blueviolet) -->
+ [![wakatime](https://wakatime.com/badge/user/aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4.svg?style=plastic&color=blueviolet)](https://wakatime.com/@aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4)
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TorresjDev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=contribs"/> 
+  <br/> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TorresjDev&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&compact=True&theme=tokyonight&hide_border=true"/>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=TorresjDev&theme=tokyonight&no-frame=true" />
+  <br/>
+  
+</div>  
+
 <br/>  
 
 ### CURRENT SKILL SET            
@@ -100,26 +131,6 @@
 </table>  
 <br/>  
 
-## <div align="center">Github & WakaTime Stats 📊</div>   
-<div align="center">
-  
-<!--  ![](https://komarev.com/ghpvc/?username=TorresjDev&style=plastic&color=blueviolet) -->
- [![wakatime](https://wakatime.com/badge/user/aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4.svg?style=plastic&color=blueviolet)](https://wakatime.com/@aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4)
-
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=TorresjDev&theme=tokyonight&no-frame=true" />
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TorresjDev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=contribs"/> 
-  <br/> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TorresjDev&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&compact=True&theme=tokyonight&hide_border=true"/>
-  
-</div>  
-
 ## <div align="center"> Connect with me 🌐</div>   
 <div align="center">
 
@@ -131,12 +142,4 @@
 </div>  
 
 <br/>
-
-## <div align="center"> About me 📝</div>   
-
-##### 🧰 Crafting innovative and scalable solutions with a focus on efficiency and robustness 💫 Since: 2020
-##### 🌱 Embracing continuous learning to master emerging technologies 💾, & refining my craft 📚
-##### 🤝 Open for collaboration on groundbreaking projects & ideas 🎖️
-##### 👨‍💻 Explore my open-source contributions and projects in my repository 🖥️
-##### ⚡ Fun fact: I relish home-cooked meals 🍴, enjoy hiking for breathtaking sunsets 🌄, love lofi beats 🎧, and am passionate about coding! ❤️
 
