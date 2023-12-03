@@ -118,9 +118,9 @@
 
 ## <div align="center"> Connect with me 🌐</div>   
 <div align="center">
+  
   [![Linkedin Badge](https://img.shields.io/badge/-@torresdev-0e76a8?style=social&logoColor=9cf&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torresdev/)
   [![GitHub Badge](https://img.shields.io/badge/-@TorresjDev-0e76a8?style=social&logoColor=black&logo=github)](https://www.github.com/TorresjDev)
-
   [![Gmail Badge](https://img.shields.io/badge/-j.torres3.dev@gmail.com-c0392b?style=social&logoColor=c0392b&logo=gmail)](mailto:j.torres3.dev@gmail.com)
 </div>  
 <br/>
