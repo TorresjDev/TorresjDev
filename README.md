@@ -45,18 +45,12 @@
      <a href="https://reactjs.org/" target="_blank">
        <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" /> 
      </a> 
-<!--      <a href="https://jquery.com/" target="_blank">
-       <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="35" />
-     </a>   -->
       <a href="https://www.w3schools.com/css/" target="_blank">
        <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="42" />
      </a> 
      <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
        <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="35" />
      </a>  
-<!--      <a href="https://sass-lang.com/" target="_blank">
-       <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="33" />
-     </a>  -->
      <a href="https://www.tailwindcss.com/" target="_blank">
        <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="35" />
      </a>  
@@ -119,29 +113,15 @@
 <br/>  
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=TorresjDev&theme=tokyonight&no-frame=true" />
   <br/>
-  
 </div>  
-
-<br/>
-
-## <div align="center"> About me 📝</div>   
-
-##### 🧰 Crafting innovative and scalable solutions with a focus on efficiency and robustness 💫 Since: 2020
-##### 🌱 Embracing continuous learning to master emerging technologies 💾, & refining my craft 📚
-##### 🤝 Open for collaboration on groundbreaking projects & ideas 🎖️
-##### 👨‍💻 Explore my open-source contributions and projects in my repository 🖥️
-##### ⚡ Fun fact: I relish home-cooked meals 🍴, enjoy hiking for breathtaking sunsets 🌄, love lofi beats 🎧, and am passionate about coding! ❤️
 <br/>
 
 ## <div align="center"> Connect with me 🌐</div>   
 <div align="center">
-
   [![Linkedin Badge](https://img.shields.io/badge/-@torresdev-0e76a8?style=social&logoColor=9cf&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torresdev/)
   [![GitHub Badge](https://img.shields.io/badge/-@TorresjDev-0e76a8?style=social&logoColor=black&logo=github)](https://www.github.com/TorresjDev)
 
   [![Gmail Badge](https://img.shields.io/badge/-j.torres3.dev@gmail.com-c0392b?style=social&logoColor=c0392b&logo=gmail)](mailto:j.torres3.dev@gmail.com)
-
 </div>  
-
 <br/>
 
