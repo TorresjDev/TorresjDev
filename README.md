@@ -1,4 +1,4 @@
-# <div align="center">Software Engineer 👨‍💻 🚀</div>
+# <div align="center">👨‍💻Software Engineer🚀</div>
 
 <br/>
 
@@ -17,7 +17,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&&theme=tokyonight&layout=compact&hide_border=true" />
   </a>
    <!-- <br/> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&layout=compact&theme=tokyonight&hide_border=true&hide=text,other,binary,tsconfig,markdown,xml,scss,git config,git"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&layout=compact&theme=tokyonight&hide_border=true&hide=text,other,binary,tsconfig,markdown,xml,scss,git,git+config"/>
   <br/>
 
 ## 💼 Current Skill Set
