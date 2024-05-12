@@ -17,7 +17,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&&theme=tokyonight&layout=compact&hide_border=true" />
   </a>
    <!-- <br/> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&layout=compact&theme=tokyonight&hide_border=true&hide=text,other,binary,tsconfig,markdown,xml,scss"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&layout=compact&theme=tokyonight&hide_border=true&hide=text,other,binary,tsconfig,markdown,xml,scss,git config,git"/>
   <br/>
 
 ## 💼 Current Skill Set
@@ -123,7 +123,7 @@
 
 <div align="center">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-@torresdev-0e76a8?style=social&logoColor=9cf&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torresdev/)
+  [![Linkedin Badge](https://img.shields.io/badge/-@torresdev-0e76a8?style=social&logoColor=9cf&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torresjdev/)
   [![GitHub Badge](https://img.shields.io/badge/-@TorresjDev-0e76a8?style=social&logoColor=black&logo=github)](https://www.github.com/TorresjDev)
   [![Gmail Badge](https://img.shields.io/badge/-j.torres3.dev@gmail.com-c0392b?style=social&logoColor=c0392b&logo=gmail)](mailto:j.torres3.dev@gmail.com)
 </div>  
