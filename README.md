@@ -17,7 +17,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&&theme=tokyonight&layout=compact&hide_border=true" />
   </a>
    <!-- <br/> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&layout=compact&theme=tokyonight&hide_border=true&hide=text,other,binary,tsconfig,markdown,xml,scss,git,git+config,json"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&layout=compact&theme=tokyonight&hide_border=true&hide=text,other,binary,tsconfig,markdown,xml,scss,git,git+config,json,YAML"/>
   <br/>
 
 ## 💼 Current Skill Set
@@ -41,11 +41,11 @@
       <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="35" />
       </a>  
-      <a href="https://angular.io/" target="_blank">
-        <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="35" />
-      </a>  
       <a href="https://reactjs.org/" target="_blank">
         <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" /> 
+      </a>  
+      <a href="https://nextjs.org/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="35" />
       </a> 
       <a href="https://www.w3schools.com/css/" target="_blank">
        <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="42" />
