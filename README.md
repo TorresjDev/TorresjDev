@@ -42,17 +42,23 @@
     <a href="https://www.python.org/" target="_blank"><img src="https://torresjdev.github.io/assets-host/assets/icons/tech/py.svg" alt="python" height="35"></a>
 </div>
 
-### 📦 **Frameworks & Package Managers**
+### 💿 **Frameworks**
 <div align="center">
     <a href="https://getbootstrap.com/" target="_blank"><img src="https://torresjdev.github.io/assets-host/assets/icons/tech/bootstrap.svg" alt="bootstrap" height="35"></a>
     <a href="https://tailwindcss.com/" target="_blank"><img src="https://torresjdev.github.io/assets-host/assets/icons/tech/tail.svg" alt="tailwindcss" height="35"></a>
     <a href="https://nodejs.org/" target="_blank"><img src="https://torresjdev.github.io/assets-host/assets/icons/tech/nodejs.svg" alt="Node.js" height="35"/></a>
-    <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="45"/></a><a href="https://reactjs.org/" target="_blank"><img src="https://torresjdev.github.io/assets-host/assets/icons/tech/react.svg" alt="React" height="35" style="background-color: white"/></a>
+    <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="45"/></a>
+    <a href="https://reactjs.org/" target="_blank"><img src="https://torresjdev.github.io/assets-host/assets/icons/tech/react.svg" alt="React" height="30" style="background-color: white"/></a>
     <a href="https://nextjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="35"/></a>
     <a href="https://dotnet.microsoft.com/download" target="_blank"><img src="https://torresjdev.github.io/assets-host/assets/icons/tech/dotnet.svg" alt=".Net" height="35"></a>
     <a href="https://matplotlib.org/" target="_blank"><img src="https://torresjdev.github.io/assets-host/assets/icons/tech/matplotlib.svg" alt="matplotlib" height="35"></a>
     <a href="https://numpy.org/" target="_blank"><img src="https://torresjdev.github.io/assets-host/assets/icons/tech/numpy.svg" alt="numpy" height="35"></a>
-     <a href="https://yarnpkg.com/" target="_blank"><img src="https://torresjdev.github.io/assets-host/assets/icons/tech/yarn.svg" alt="Yarn" height="35"/></a>
+    
+</div>
+
+### 📦 **Package Managers**
+<div align="center">
+    <a href="https://yarnpkg.com/" target="_blank"><img src="https://torresjdev.github.io/assets-host/assets/icons/tech/yarn.svg" alt="Yarn" height="35"/></a>
     <a href="https://www.nuget.org/" target="_blank"><img src="https://torresjdev.github.io/assets-host/assets/icons/tech/nuget.svg" alt="NuGet" height="35"/></a>
     <a href="https://www.npmjs.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" height="35"/></a>
 </div>
