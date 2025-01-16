@@ -23,7 +23,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&&theme=tokyonight&layout=compact&hide=jupyter+notebook&hide_border=true" />
   </a>
    <!-- <br/> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&layout=compact&theme=tokyonight&hide_border=true&hide=text,other,binary,tsconfig,markdown,xml,scss,git,git+config,json,YAML,image+(svg)"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&layout=compact&theme=tokyonight&hide_border=true&hide=text,other,binary,tsconfig,markdown,xml,scss,git,git+config,json,YAML,image+(svg),mdx"/>
   <br/>
 
 ---
