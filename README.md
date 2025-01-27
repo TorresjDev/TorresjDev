@@ -1,4 +1,4 @@
-# <div align="center" ><div style="display:flex; justify-content: center;"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/dev/dev-lg.svg" alt="dev-icon" height="40" style="margin-right: 6px"/> Torres J. Dev 🚀</div></div>
+# <div align="center" ><div style="display:flex; justify-content: center;"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/dev/dev-lg.svg" alt="dev-icon"/></div> Torres J. Dev 🚀</div>
 
 **<div align="center">Software Engineer | Full-Stack Developer | Creative Enthusiast**</div>
 
@@ -11,17 +11,20 @@
 ## <div align="center">📊 Coding & Development Stats</div>
 
 <div align="center">
- <!-- ![](https://komarev.com/ghpvc/?username=TorresjDev&style=plastic&color=blueviolet) -->
 
-### Coding Hours: [![wakatime](https://wakatime.com/badge/user/aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4.svg?style=plastic&color=blueviolet)](https://wakatime.com/@aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4)
+### Coding Hours: [![wakatime](https://wakatime.com/badge/user/aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4.svg?style=plastic&color=blue-violet)](https://wakatime.com/@aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4)
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TorresjDev&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TorresjDev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=contribs"/>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&&theme=tokyonight&layout=compact&hide=jupyter+notebook&hide_border=true" />
-  </a>
+### Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=TorresjDev&style=plastic&color=blueviolet)
+
+<a href="https://gh-stats-gen.vercel.app/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TorresjDev&theme=tokyonight&hide_border=true&ring=820000" alt="TorresjDev's GitHub Streak" /></a>
+
+<!-- <br/> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TorresjDev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=contribs"/>
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&&theme=tokyonight&layout=compact&hide=jupyter+notebook&hide_border=true" />
+</a>
+
    <!-- <br/> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&layout=compact&theme=tokyonight&hide_border=true&hide=text,other,binary,tsconfig,markdown,xml,scss,git,git+config,json,YAML,image+(svg),mdx"/>
   <br/>
@@ -95,9 +98,10 @@
 ## <div align="center">🌐Connect with me</div>
 
 <div align="center">
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-@torresdev-0e76a8?style=social&logoColor=9cf&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torresjdev/)
-  <!-- [![GitHub Badge](https://img.shields.io/badge/-@TorresjDev-0e76a8?style=social&logoColor=black&logo=github)](https://www.github.com/TorresjDev) -->
-  [![Gmail Badge](https://img.shields.io/badge/-j.torres3.dev@gmail.com-c0392b?style=social&logoColor=c0392b&logo=gmail)](mailto:j.torres3.dev@gmail.com)
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-@torresjdev-0e76a8?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/torresjdev/) [![Gmail Badge](https://img.shields.io/badge/-j.torres3.dev@gmail.com-white?logoColor=red&logo=gmail)](mailto:j.torres3.dev@gmail.com)
+
+[![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)](https://replit.com/@jtorres3dev) [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)](https://www.freecodecamp.org/Dev-JTorres)
+
 </div>  
 <br/>
