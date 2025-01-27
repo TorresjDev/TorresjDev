@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/dev/dev-lg.svg" alt="VSCode" height="35"/> Torres J. Dev 🚀</div>
+# <div align="center" ><div style="display:flex; justify-content: center;"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/dev/dev-lg.svg" alt="dev-icon" height="40" style="margin-right: 6px"/> Torres J. Dev 🚀</div></div>
 
 **<div align="center">Software Engineer | Full-Stack Developer | Creative Enthusiast**</div>
 
