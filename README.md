@@ -1,14 +1,16 @@
-# <div align="center" ><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/dev/dev-lg.svg" alt="dev-icon"/></div>
+# <div align="center" ><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/dev/dev-lg.svg" alt="dev-icon" height="245"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+
+</div>
 
 **<div align="center">Software Engineer | Full-Stack Developer | Creative Enthusiast 🚀</div>**
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <div align="center">
   Passionate about building efficient, scalable software solutions. Skilled in full-stack development, with a focus on creating impactful user experiences and robust backend systems.
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ## <div align="center">📊 Coding & Development Stats</div>
 
@@ -19,11 +21,11 @@
 <a href="https://gh-stats-gen.vercel.app/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TorresjDev&theme=tokyonight&hide_border=true&ring=820000" alt="TorresjDev's GitHub Streak" /></a>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TorresjDev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=contribs"/><br/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&&theme=tokyonight&layout=compact&hide=jupyter+notebook&hide_border=true"/></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&&theme=tokyonight&layout=compact&hide=jupyter+notebook&hide_border=true"/></a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&layout=compact&theme=tokyonight&hide_border=true&hide=text,other,binary,tsconfig,markdown,xml,scss,git,git+config,json,YAML,image+(svg),mdx"/>
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ## 💼 Technical Skill Set
 
@@ -84,7 +86,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ## <div align="center">🌐Connect with me</div>
 
