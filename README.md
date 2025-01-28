@@ -1,7 +1,5 @@
-# <div align="center" ><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/dev/dev-lg.svg" alt="dev-icon" height="245"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
-
-</div>
-
+# <div align="center" ><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/dev/dev-lg.svg" alt="dev-icon" height="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="150"></div>
+<!-- <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"> -->
 **<div align="center">Software Engineer | Full-Stack Developer | Creative Enthusiast 🚀</div>**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
