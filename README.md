@@ -1,5 +1,6 @@
-# <div align="center" ><div style="display:flex; justify-content: center;"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/dev/dev-lg.svg" alt="dev-icon"/></div> Torres J. Dev 🚀</div>
-**<div align="center">Software Engineer | Full-Stack Developer | Creative Enthusiast**</div>
+# <div align="center" ><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/dev/dev-lg.svg" alt="dev-icon"/></div>
+
+**<div align="center">Software Engineer | Full-Stack Developer | Creative Enthusiast 🚀</div>**
 
 ---
 
