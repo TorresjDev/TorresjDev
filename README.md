@@ -14,7 +14,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=TorresjDev&style=plastic&color=blueviolet) ***& Coding Hours***: [![wakatime](https://wakatime.com/badge/user/aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4.svg?style=plastic&color=blue-violet)](https://wakatime.com/@aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4)
+### Coding Hours: [![wakatime](https://wakatime.com/badge/user/aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4.svg?style=plastic&color=blue-violet)](https://wakatime.com/@aa8a1d84-7093-434e-b5c0-0e1a0b8be2e4) & ![Profile Views](https://komarev.com/ghpvc/?username=TorresjDev&style=plastic&color=blueviolet)
 
 <a href="https://gh-stats-gen.vercel.app/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TorresjDev&theme=tokyonight&hide_border=true&ring=820000" alt="TorresjDev's GitHub Streak" /></a>
 
