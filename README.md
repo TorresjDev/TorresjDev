@@ -18,16 +18,10 @@
 
 <a href="https://gh-stats-gen.vercel.app/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TorresjDev&theme=tokyonight&hide_border=true&ring=820000" alt="TorresjDev's GitHub Streak" /></a>
 
-<!-- <br/> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TorresjDev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=contribs"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TorresjDev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=contribs"/><br/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&&theme=tokyonight&layout=compact&hide=jupyter+notebook&hide_border=true"/></a> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&layout=compact&theme=tokyonight&hide_border=true&hide=text,other,binary,tsconfig,markdown,xml,scss,git,git+config,json,YAML,image+(svg),mdx"/>
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&&theme=tokyonight&layout=compact&hide=jupyter+notebook&hide_border=true" />
-</a>
-
-   <!-- <br/> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&layout=compact&theme=tokyonight&hide_border=true&hide=text,other,binary,tsconfig,markdown,xml,scss,git,git+config,json,YAML,image+(svg),mdx"/>
-  <br/>
 
 ---
 
