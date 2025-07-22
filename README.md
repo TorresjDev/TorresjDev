@@ -1,14 +1,23 @@
-# <div align="center" ><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/dev/dev-xl.svg" alt="dev-icon" height="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="150"></div>
-
-<!-- <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"> -->
+# <div align="center"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/dev/dev-xl.svg" alt="dev-icon" height="150"/></div>
 
 **<div align="center">Software Engineer 💻 Full-Stack Developer 🚀 DataBase Developer 📼</div>**
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <p align="center">Passionate about building efficient, scalable software solutions. Skilled in full-stack development, with a focus on creating impactful user experiences and robust backend systems.</p>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-## <div align="center">📊 Coding & Development Stats</div>
+## <div align="center">🚀 Featured Projects</div>
+
+<div align="center">
+
+| Project                                                                                             | Tech Stack                      | Description                                                    |
+| --------------------------------------------------------------------------------------------------- | ------------------------------- | -------------------------------------------------------------- |
+| 🎮 **[TS-Phaser-Game-Jumper](https://github.com/TorresjDev/TS-Phaser-Game-Jumper)**                 | TypeScript • Phaser.js          | Platformer game with coin collection and dynamic gameplay      |
+| 🏨 **[Hotel Management System](https://github.com/TorresjDev/CSharp-Buff-Hotel-Management-System)** | C# • .NET • MySQL               | Complete hotel management with reservations and guest tracking |
+| 🌐 **[Nextjs-Portfolio](https://github.com/TorresjDev/Nextjs-Portfoio)**                            | Next.js • TypeScript • Tailwind | Modern responsive portfolio showcasing projects and skills     |
+| 🐍 **[Sound Wave Analysis](https://github.com/TorresjDev/Python-Sound-Wave-Analysis)**              | Python • Data Science           | Sound visualization with amplitude, frequency, and dB analysis |
+
+</div>
+
+## <div align="center">📊 Coding Analytics</div>
 
 <div align="center">
 
@@ -19,10 +28,8 @@
 </a><br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TorresjDev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=contribs"/><br/>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorresjDev&&theme=tokyonight&layout=compact&hide=jupyter+notebook&hide_border=true"/></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&layout=compact&theme=tokyonight&hide_border=true&hide=text,other,binary,tsconfig,markdown,xml,scss,git,git+config,json,YAML,image+(svg),mdx"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@Jtorres&layout=compact&theme=tokyonight&hide_border=true&hide=text,other,binary,tsconfig,markdown,xml,scss,git,git+config,json,YAML,image+(svg),mdx,ini,prisma,c"/>
 <br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ## 💼 Technical Skill Set
 
@@ -81,8 +88,6 @@
   </div>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ## <div align="center">🌐Connect with me</div>
 
