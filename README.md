@@ -36,21 +36,21 @@
 <div align="center">
 
   <div align="left"><h2>✍️ Languages:&nbsp;&nbsp;
-      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/html.svg" alt="HTML5" height="35"/></a>
-      <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/css.svg" alt="" height="35"></a>
-      <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35"/></a>
-      <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="35"/></a>
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="35"/></a>
-      <a href="https://www.python.org/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/py.svg" alt="python" height="35"></a></h2>
+      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/html.svg" alt="HTML5" height="30"/></a>
+      <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/css.svg" alt="" height="30"></a>
+      <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/></a>
+      <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25"/></a>
+      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="26"/></a>
+      <a href="https://www.python.org/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/py.svg" alt="python" height="45"></a></h2>
   </div>
 
   <div align="left"><h2>💿 Frameworks:     
       <a href="https://getbootstrap.com/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/bootstrap.svg" alt="bootstrap" height="35"></a>
       <a href="https://tailwindcss.com/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/tail.svg" alt="tailwindcss" height="35"></a>
       <a href="https://nodejs.org/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/nodejs.svg" alt="Node.js" height="35"/></a>
-      <a href="https://expressjs.com/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/express-icon.svg" alt="Express.js" height="28"/></a>
-      <a href="https://reactjs.org/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/react.svg" alt="React" height="27" style="background-color: white"/></a>
-      <a href="https://nextjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="32"/></a>
+      <a href="https://expressjs.com/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/express-icon.svg" alt="Express.js" height="23"/></a>
+      <a href="https://reactjs.org/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/react.svg" alt="React" height="25" style="background-color: white"/></a>
+      <a href="https://nextjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="27"/></a>
       <a href="https://dotnet.microsoft.com/download" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/dotnet.svg" alt=".Net" height="35"></a>
       <a href="https://matplotlib.org/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/matplotlib.svg" alt="matplotlib" height="35"></a>
       <a href="https://numpy.org/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/numpy.svg" alt="numpy" height="35"></a>
@@ -70,18 +70,18 @@
   </div> -->
 
   <div align="left"><h2>🛠️ Tech Tools:&nbsp;&nbsp;      
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" height="40"/></a>
-      <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="35"/></a>
-      <a href="https://www.mysql.com/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/mysql.svg" alt="MySql" height="40"/></a>
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" height="30"/></a>
+      <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="30"/></a>
+      <a href="https://www.mysql.com/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/mysql.svg" alt="MySql" height="40" width="30"/></a>
       <a href="https://yarnpkg.com/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/yarn.svg" alt="Yarn" height="35"/></a>
       <a href="https://www.nuget.org/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/nuget.svg" alt="NuGet" height="35"/></a>
-      <a href="https://www.npmjs.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" height="35"/></a>
-      <a href="https://code.visualstudio.com/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/vscode.svg" alt="VSCode" height="37"/></a>
+      <a href="https://www.npmjs.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" height="25"/></a>
+      <a href="https://code.visualstudio.com/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/vscode.svg" alt="VSCode" height="39"/></a>
       <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/vs.svg" alt="Visual Studio" height="33"/></a>
       <a href="https://git-scm.com/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/gitbash.svg" alt="gitbash" height="35"/></a>
-      <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40"/></a>
-      <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="40"/></a>
-      <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="35"/></a>
+      <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="30"/></a>
+      <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="30"/></a>
+      <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="25"/></a>
       <a href="https://wakatime.com" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/wakatime.svg" alt="WakaTime" height="35"/></a>
       <a href="https://jupyter.org/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/jupyter.svg" alt="jupyter" height="35"></a>
       </h2>
