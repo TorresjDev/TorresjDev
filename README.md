@@ -10,10 +10,10 @@
 
 | Project                                                                                             | Tech Stack                      | Description                                                    |
 | --------------------------------------------------------------------------------------------------- | ------------------------------- | -------------------------------------------------------------- |
+| 🌐 **[Nextjs-Portfolio](https://github.com/TorresjDev/Nextjs-Portfoio)**                            | Next.js • TypeScript • Tailwind | Modern responsive portfolio showcasing projects and skills     |
+| 🐍 **[Sound Wave Analysis](https://github.com/TorresjDev/Python-Projects/tree/main/sound-wave-analysis)**              | Python • Data Science           | Sound visualization with amplitude, frequency, and dB analysis |
 | 🎮 **[TS-Phaser-Game-Jumper](https://github.com/TorresjDev/TS-Phaser-Game-Jumper)**                 | TypeScript • Phaser.js          | Platformer game with coin collection and dynamic gameplay      |
 | 🏨 **[Hotel Management System](https://github.com/TorresjDev/CSharp-Buff-Hotel-Management-System)** | C# • .NET • MySQL               | Complete hotel management with reservations and guest tracking |
-| 🌐 **[Nextjs-Portfolio](https://github.com/TorresjDev/Nextjs-Portfoio)**                            | Next.js • TypeScript • Tailwind | Modern responsive portfolio showcasing projects and skills     |
-| 🐍 **[Sound Wave Analysis](https://github.com/TorresjDev/Python-Sound-Wave-Analysis)**              | Python • Data Science           | Sound visualization with amplitude, frequency, and dB analysis |
 
 </div>
 
