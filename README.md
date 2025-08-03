@@ -10,10 +10,11 @@
 
 | Project                                                                                             | Tech Stack                      | Description                                                    |
 | --------------------------------------------------------------------------------------------------- | ------------------------------- | -------------------------------------------------------------- |
-| 🌐 **[Nextjs-Portfolio](https://github.com/TorresjDev/Nextjs-Portfoio)**                            | Next.js • TypeScript • Tailwind | Modern responsive portfolio showcasing projects and skills     |
+| 🌐 **[Nextjs Portfolio](https://github.com/TorresjDev/Nextjs-Portfoio)**                            | Next.js • TypeScript • Tailwind | Modern responsive portfolio showcasing projects and skills     |
+| 🤖 **[AI Chatbot Application](https://github.com/TorresjDev/Python-Projects/tree/main/gemini-chatbot-streamlit)**              | Streamlit • Python • Google AI       | Streamlit chatbot application with google ai api |
 | 🐍 **[Sound Wave Analysis](https://github.com/TorresjDev/Python-Projects/tree/main/sound-wave-analysis)**              | Python • Data Science           | Sound visualization with amplitude, frequency, and dB analysis |
-| 🎮 **[TS-Phaser-Game-Jumper](https://github.com/TorresjDev/TS-Phaser-Game-Jumper)**                 | TypeScript • Phaser.js          | Platformer game with coin collection and dynamic gameplay      |
-| 🏨 **[Hotel Management System](https://github.com/TorresjDev/CSharp-Buff-Hotel-Management-System)** | C# • .NET • MySQL               | Complete hotel management with reservations and guest tracking |
+| 🎮 **[TS Phaser Game Jumper](https://github.com/TorresjDev/TS-Phaser-Game-Jumper)**                 | Phaser.js • TypeScript          | Platformer game with coin collection and dynamic gameplay      |
+| 🏨 **[Hotel Management System](https://github.com/TorresjDev/CSharp-Buff-Hotel-Management-System)** | .NET • C# • MySQL               | Complete hotel management with reservations and guest tracking |
 
 </div>
 
