@@ -4,17 +4,17 @@
 
 <p align="center">Passionate about building efficient, scalable software solutions. Skilled in full-stack development, with a focus on creating impactful user experiences and robust backend systems.</p>
 
-## <div align="center">🚀 Featured Projects</div>
+## <div align="center">🚀 Top Featured Projects</div>
 
 <div align="center">
 
-| Project                                                                                             | Tech Stack                      | Description                                                    |
-| --------------------------------------------------------------------------------------------------- | ------------------------------- | -------------------------------------------------------------- |
-| 🌐 **[Nextjs Portfolio](https://github.com/TorresjDev/Nextjs-Portfoio)**                            | Next.js • TypeScript • Tailwind | Modern responsive portfolio showcasing projects and skills     |
-| 🤖 **[AI Chatbot Application](https://github.com/TorresjDev/Python-Projects/tree/main/gemini-chatbot-streamlit)**              | Streamlit • Python • Google AI       | Streamlit chatbot application with google ai api |
-| 🐍 **[Sound Wave Analysis](https://github.com/TorresjDev/Python-Projects/tree/main/sound-wave-analysis)**              | Python • Data Science           | Sound visualization with amplitude, frequency, and dB analysis |
-| 🎮 **[TS Phaser Game Jumper](https://github.com/TorresjDev/TS-Phaser-Game-Jumper)**                 | Phaser.js • TypeScript          | Platformer game with coin collection and dynamic gameplay      |
-| 🏨 **[Hotel Management System](https://github.com/TorresjDev/CSharp-Buff-Hotel-Management-System)** | .NET • C# • MySQL               | Complete hotel management with reservations and guest tracking |
+| Project                                                                                             | Tech Stack                           | Description                                                    |
+| --------------------------------------------------------------------------------------------------- | ------------------------------------- | -------------------------------------------------------------- |
+| 📈 **[Stock Analysis Pro](https://github.com/TorresjDev/Python-Projects/tree/main/stock-analysis-pro)** | Python • Data Analysis • FinTech       | Advanced stock market analysis and visualization tool.         |
+| 🤖 **[AI Chatbot Application](https://github.com/TorresjDev/Python-Projects/tree/main/gemini-chatbot-streamlit)** | Python • Streamlit • Google AI   | Streamlit chatbot app using Google AI API for interactive Q&A. |
+| 🐍 **[Sound Wave Analysis](https://github.com/TorresjDev/Python-Projects/tree/main/sound-wave-analysis)** | Python • Data Science                 | Sound visualization with amplitude, frequency, and dB analysis.|
+| 🎮 **[TS Phaser Game Jumper](https://github.com/TorresjDev/TS-Phaser-Game-Jumper)**                  | Phaser.js • TypeScript                | Platformer game with coin collection and dynamic gameplay.     |
+| 🏨 **[Hotel Management System](https://github.com/TorresjDev/CSharp-Buff-Hotel-Management-System)**  | .NET • C# • MySQL                     | Complete hotel management with reservations and guest tracking.|
 
 </div>
 
@@ -98,5 +98,16 @@
 
 [![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)](https://replit.com/@jtorres3dev) [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)](https://www.freecodecamp.org/Dev-JTorres)
 
+</div> 
+
+## <div align="center">🚪 Visit 🦣</div>
+
+<div align="center">
+  
+🌐 **[Dev Portfolio](https://github.com/TorresjDev/Nextjs-Portfoio)** – Modern Nextjs, responsive portfolio showcasing my skills and projects.  
+🛠 **[Studio Dev Project](https://github.com/TorresjDev/Nextjs-App)** – A personal Nextjs hub app, serving as my central space for projects, guides, and future tools.
+
+
 </div>  
+
 <br/>
