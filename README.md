@@ -1,6 +1,6 @@
 # <div align="center"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/dev/dev-xl.svg" alt="dev-icon" height="150"/></div>
 
-**<div align="center">Software Engineer 💻 Full-Stack Developer 🚀 DataBase Developer 📼</div>**
+**<div align="center">Software Engineer 💻 Full-Stack Developer 💾 Data Analyst</div>**
 
 <p align="center">Passionate about building efficient, scalable software solutions. Skilled in full-stack development, with a focus on creating impactful user experiences and robust backend systems.</p>
 
