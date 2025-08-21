@@ -101,18 +101,6 @@
   </table>
 </div>
 
-  <!-- <div align="left"><h2>📦 Package Managers:&nbsp;   
-      <a href="https://yarnpkg.com/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/yarn.svg" alt="Yarn" height="35"/></a>
-      <a href="https://www.nuget.org/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/nuget.svg" alt="NuGet" height="35"/></a>
-      <a href="https://www.npmjs.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" height="35"/></a>
-      &nbsp;&nbsp;&nbsp;
-      🗄️ Databases:&nbsp;&nbsp;  
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" height="40"/></a>
-      <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="35"/></a>
-      <a href="https://www.mysql.com/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/mysql.svg" alt="MySql" height="40"/></a>
-      </h2>
-  </div> -->
-
 ## <div align="center">🌐Connect with me</div>
 
 <div align="center">
