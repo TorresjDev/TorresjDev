@@ -35,35 +35,35 @@
 ## 💼 Technical Skill Set
 
 <div align="center">
-  <table style="width: 80%; table-layout: fixed;">
+  <table style="width: 75%; table-layout: fixed;">
     <thead>
       <tr>
-        <th style="width: 50%; text-align: center;">✍️ Languages</th>
-        <th style="width: 50%; text-align: center;">💿 Frameworks</th>
+        <th style=" text-align: center;">✍️ Languages</th>
+        <th style=" text-align: center;">💿 Frameworks</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td style="text-align: center;">
           <!-- Your language icons here -->
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/py.svg" alt="python" height="45"/>
+          <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="26"/> 
+          <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25"/> 
+          <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/> 
           <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/html.svg" alt="HTML5" height="30"/>
           <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/css.svg" alt="" height="30"/> 
-          <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/> 
-          <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25"/> 
-          <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="26"/> 
-          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/py.svg" alt="python" height="45"/>
         </td>
         <td style="text-align: center;">
           <!-- Your framework icons here -->          
-          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/bootstrap.svg" alt="bootstrap" height="35"/> 
-          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/tail.svg" alt="tailwindcss" height="35"/> 
-          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/nodejs.svg" alt="Node.js" height="35"/> 
-          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/express-icon.svg" alt="Express.js" height="23"/> 
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/numpy.svg" alt="numpy" height="35"/>
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/matplotlib.svg" alt="matplotlib" height="35"/> 
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/dotnet.svg" alt=".Net" height="35"/> 
           <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/react.svg" alt="React" height="25" style="background-color: white"/> 
           <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="27"/> 
-          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/dotnet.svg" alt=".Net" height="35"/> 
-          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/matplotlib.svg" alt="matplotlib" height="35"/> 
-          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/numpy.svg" alt="numpy" height="35"/>
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/nodejs.svg" alt="Node.js" height="35"/> 
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/express-icon.svg" alt="Express.js" height="23"/> 
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/tail.svg" alt="tailwindcss" height="35"/> 
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/bootstrap.svg" alt="bootstrap" height="35"/> 
         </td>
       </tr>
     </tbody>
@@ -71,14 +71,14 @@
 </div>
 
 <div align="center">
-  <table style="width: 80%; table-layout: fixed;">
+  <table style="width: 75%; table-layout: fixed;">
     <thead>
       <tr>
         <th style="width: 50%; text-align: center;">🛠️ Tech Tools</th>
       </tr>
     </thead>
     <tbody>
-      <tr>
+      <tr style="text-align: center;">
         <td style="text-align: center;">
           <!-- Your language icons here -->          
           <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" height="30"/> 
