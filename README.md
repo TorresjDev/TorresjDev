@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/dev/dev-xl.svg" alt="dev-icon" height="150"/></div>  
+# <div align="center"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/dev/dev-xl.svg" alt="dev-icon" height="150"/></div>
 
 **<div align="center">Software Engineer 💻 Full-Stack Developer 🚀 DataBase Developer 📼</div>**
 
@@ -8,13 +8,13 @@
 
 <div align="center">
 
-| Project                                                                                             | Tech Stack                           | Description                                                    |
-| --------------------------------------------------------------------------------------------------- | ------------------------------------- | -------------------------------------------------------------- |
-| 📈 **[Stock Analysis Pro](https://github.com/TorresjDev/Python-Projects/tree/main/stock-analysis-pro)** | Python • Data Analysis • FinTech       | Advanced stock market analysis and visualization tool.         |
-| 🤖 **[AI Chatbot Application](https://github.com/TorresjDev/Python-Projects/tree/main/gemini-chatbot-streamlit)** | Python • Streamlit • Google AI   | Streamlit chatbot app using Google AI API for interactive Q&A. |
-| 🐍 **[Sound Wave Analysis](https://github.com/TorresjDev/Python-Projects/tree/main/sound-wave-analysis)** | Python • Data Science                 | Sound visualization with amplitude, frequency, and dB analysis.|
-| 🎮 **[TS Phaser Game Jumper](https://github.com/TorresjDev/TS-Phaser-Game-Jumper)**                  | Phaser.js • TypeScript                | Platformer game with coin collection and dynamic gameplay.     |
-| 🏨 **[Hotel Management System](https://github.com/TorresjDev/CSharp-Buff-Hotel-Management-System)**  | .NET • C# • MySQL                     | Complete hotel management with reservations and guest tracking.|
+| Project                                                                                                           | Tech Stack                       | Description                                                     |
+| ----------------------------------------------------------------------------------------------------------------- | -------------------------------- | --------------------------------------------------------------- |
+| 📈 **[Stock Analysis Pro](https://github.com/TorresjDev/Python-Projects/tree/main/stock-analysis-pro)**           | Python • Data Analysis • FinTech | Advanced stock market analysis and visualization tool.          |
+| 🤖 **[AI Chatbot Application](https://github.com/TorresjDev/Python-Projects/tree/main/gemini-chatbot-streamlit)** | Python • Streamlit • Google AI   | Streamlit chatbot app using Google AI API for interactive Q&A.  |
+| 🐍 **[Sound Wave Analysis](https://github.com/TorresjDev/Python-Projects/tree/main/sound-wave-analysis)**         | Python • Data Science            | Sound visualization with amplitude, frequency, and dB analysis. |
+| 🎮 **[TS Phaser Game Jumper](https://github.com/TorresjDev/TS-Phaser-Game-Jumper)**                               | Phaser.js • TypeScript           | Platformer game with coin collection and dynamic gameplay.      |
+| 🏨 **[Hotel Management System](https://github.com/TorresjDev/CSharp-Buff-Hotel-Management-System)**               | .NET • C# • MySQL                | Complete hotel management with reservations and guest tracking. |
 
 </div>
 
@@ -35,28 +35,71 @@
 ## 💼 Technical Skill Set
 
 <div align="center">
+  <table style="width: 80%; table-layout: fixed;">
+    <thead>
+      <tr>
+        <th style="width: 50%; text-align: center;">✍️ Languages</th>
+        <th style="width: 50%; text-align: center;">💿 Frameworks</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align: center;">
+          <!-- Your language icons here -->
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/html.svg" alt="HTML5" height="30"/>
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/css.svg" alt="" height="30"/> 
+          <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/> 
+          <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25"/> 
+          <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="26"/> 
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/py.svg" alt="python" height="45"/>
+        </td>
+        <td style="text-align: center;">
+          <!-- Your framework icons here -->          
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/bootstrap.svg" alt="bootstrap" height="35"/> 
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/tail.svg" alt="tailwindcss" height="35"/> 
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/nodejs.svg" alt="Node.js" height="35"/> 
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/express-icon.svg" alt="Express.js" height="23"/> 
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/react.svg" alt="React" height="25" style="background-color: white"/> 
+          <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="27"/> 
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/dotnet.svg" alt=".Net" height="35"/> 
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/matplotlib.svg" alt="matplotlib" height="35"/> 
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/numpy.svg" alt="numpy" height="35"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-  <div align="left"><h2>✍️ Languages:&nbsp;&nbsp;
-      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/html.svg" alt="HTML5" height="30"/></a>
-      <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/css.svg" alt="" height="30"></a>
-      <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25"/></a>
-      <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25"/></a>
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="26"/></a>
-      <a href="https://www.python.org/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/py.svg" alt="python" height="45"></a></h2>
-  </div>
-
-  <div align="left"><h2>💿 Frameworks:     
-      <a href="https://getbootstrap.com/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/bootstrap.svg" alt="bootstrap" height="35"></a>
-      <a href="https://tailwindcss.com/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/tail.svg" alt="tailwindcss" height="35"></a>
-      <a href="https://nodejs.org/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/nodejs.svg" alt="Node.js" height="35"/></a>
-      <a href="https://expressjs.com/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/express-icon.svg" alt="Express.js" height="23"/></a>
-      <a href="https://reactjs.org/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/react.svg" alt="React" height="25" style="background-color: white"/></a>
-      <a href="https://nextjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="27"/></a>
-      <a href="https://dotnet.microsoft.com/download" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/dotnet.svg" alt=".Net" height="35"></a>
-      <a href="https://matplotlib.org/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/matplotlib.svg" alt="matplotlib" height="35"></a>
-      <a href="https://numpy.org/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/numpy.svg" alt="numpy" height="35"></a>
-      </h2>
-  </div>
+<div align="center">
+  <table style="width: 80%; table-layout: fixed;">
+    <thead>
+      <tr>
+        <th style="width: 50%; text-align: center;">🛠️ Tech Tools</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="text-align: center;">
+          <!-- Your language icons here -->          
+          <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" height="30"/> 
+          <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="30"/> 
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/mysql.svg" alt="MySql" height="40" width="30"/> 
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/yarn.svg" alt="Yarn" height="35"/> 
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/nuget.svg" alt="NuGet" height="35"/> 
+          <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" height="25"/> 
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/vscode.svg" alt="VSCode" height="39"/> 
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/vs.svg" alt="Visual Studio" height="33"/> 
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/gitbash.svg" alt="gitbash" height="35"/> 
+          <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="30"/> 
+          <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="30"/> 
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="25"/> 
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/wakatime.svg" alt="WakaTime" height="35"/> 
+          <img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/jupyter.svg" alt="jupyter" height="35"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
   <!-- <div align="left"><h2>📦 Package Managers:&nbsp;   
       <a href="https://yarnpkg.com/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/yarn.svg" alt="Yarn" height="35"/></a>
@@ -70,26 +113,6 @@
       </h2>
   </div> -->
 
-  <div align="left"><h2>🛠️ Tech Tools:&nbsp;&nbsp;      
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" height="30"/></a>
-      <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="30"/></a>
-      <a href="https://www.mysql.com/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/mysql.svg" alt="MySql" height="40" width="30"/></a>
-      <a href="https://yarnpkg.com/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/yarn.svg" alt="Yarn" height="35"/></a>
-      <a href="https://www.nuget.org/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/nuget.svg" alt="NuGet" height="35"/></a>
-      <a href="https://www.npmjs.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" height="25"/></a>
-      <a href="https://code.visualstudio.com/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/vscode.svg" alt="VSCode" height="39"/></a>
-      <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/vs.svg" alt="Visual Studio" height="33"/></a>
-      <a href="https://git-scm.com/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/gitbash.svg" alt="gitbash" height="35"/></a>
-      <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="30"/></a>
-      <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="30"/></a>
-      <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="25"/></a>
-      <a href="https://wakatime.com" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/wakatime.svg" alt="WakaTime" height="35"/></a>
-      <a href="https://jupyter.org/" target="_blank"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/tech/jupyter.svg" alt="jupyter" height="35"></a>
-      </h2>
-  </div>
-
-</div>
-
 ## <div align="center">🌐Connect with me</div>
 
 <div align="center">
@@ -98,7 +121,7 @@
 
 [![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)](https://replit.com/@jtorres3dev) [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)](https://www.freecodecamp.org/Dev-JTorres)
 
-</div> 
+</div>
 
 ## <div align="center">🚪 Visit 🦣</div>
 
@@ -107,7 +130,6 @@
 🌐 **[Dev Portfolio](https://github.com/TorresjDev/Nextjs-Portfoio)** – Modern Nextjs, responsive portfolio showcasing my skills and projects.  
 🛠 **[Studio Dev Project](https://github.com/TorresjDev/Nextjs-App)** – A personal Nextjs hub app, serving as my central space for projects, guides, and future tools.
 
-
-</div>  
+</div>
 
 <br/>
