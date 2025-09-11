@@ -13,7 +13,7 @@
 | 📈 **[Stock Analysis Pro](https://github.com/TorresjDev/Python-Projects/tree/main/stock-analysis-pro)**           | Python • Data Analysis • FinTech | Advanced stock market analysis and visualization tool.          |
 | 🤖 **[AI Chatbot Application](https://github.com/TorresjDev/Python-Projects/tree/main/gemini-chatbot-streamlit)** | Python • Streamlit • Google AI   | Streamlit chatbot app using Google AI API for interactive Q&A.  |
 | 🐍 **[Sound Wave Analysis](https://github.com/TorresjDev/Python-Projects/tree/main/sound-wave-analysis)**         | Python • Data Science            | Sound visualization with amplitude, frequency, and dB analysis. |
-| 🎮 **[TS Phaser Game Jumper](https://github.com/TorresjDev/TS-Phaser-Game-Jumper)**                               | Phaser.js • TypeScript           | Platformer game with coin collection and dynamic gameplay.      |
+| 🎮 **[TS Phaser Game Jumper](https://github.com/TorresjDev/TS-Phaser-Game-Jumper)**                               |TypeScript • Phaser.js            | Platformer game with coin collection and dynamic gameplay.      |
 | 🏨 **[Hotel Management System](https://github.com/TorresjDev/CSharp-Buff-Hotel-Management-System)**               | .NET • C# • MySQL                | Complete hotel management with reservations and guest tracking. |
 
 </div>
