@@ -9,7 +9,7 @@
 <div align="center">
 
   | Project | Tech Stack | Description |
-  | :--- | :--- | :--- |
+  | :----- | :---- | :--- |
   | **![GitHub](https://img.shields.io/badge/-181717?logo=github&logoColor=white) [Developer Task Manager](https://github.com/TorresjDev/Developer-Task-Manager)** | ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white) | Enterprise task management system for developer workflows. |
   | **📦 [Mailroom App](https://github.com/TorresjDev/Mailroom-Management-Application)** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white) | Three-tier package logistics and notification system. |
   | **🚀 [JT Dev Studio](https://github.com/TorresjDev/Nextjs-JT-Dev-Studio)** | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) | Centralized hub for hosting personal projects & guides. |
