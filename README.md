@@ -1,9 +1,24 @@
 # <div align="center"><img src="https://torresjdev.github.io/Nextjs-Asset-Host/assets/icons/dev/dev-xl.svg" alt="dev-icon" height="150"/></div>
 
 
-**<div align="center">Software Engineer 💻 Full-Stack Developer 💾 Data Analyst</div>**
+<h3 align="center">Software Engineer 💻 Full-Stack Developer 💾 Data Analyst</h3>
 
-<p align="center">Passionate about building efficient, scalable software solutions. Skilled in full-stack development, with a focus on creating impactful user experiences and robust backend systems.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase"/>
+</p>
+<p align="center">
+  Passionate about building efficient, scalable software solutions. Skilled in full-stack development, with a focus on creating impactful user experiences and robust backend systems.
+</p>
+
+<p align="center">
+  <a href="https://jt-devstudio.tech">
+    <img src="https://img.shields.io/badge/🔗%20Visit%20My%20Studio-jt--devstudio.tech-0e76a8?style=for-the-badge" alt="Visit Studio"/>
+  </a>
+</p>
 
 ---
 
